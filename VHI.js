@@ -1,3 +1,5 @@
+//CREAR VHI CON LANDSAT 8
+
 // Cargar paises:
 
 var paises = ee.FeatureCollection("FAO/GAUL/2015/level2");
